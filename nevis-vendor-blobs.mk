@@ -79,7 +79,7 @@ PRODUCT_COPY_FILES += \
 # Hardware module .so files.
 PRODUCT_COPY_FILES += \
     vendor/samsung/nevis/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
-    vendor/samsung/nevis/proprietary/lib/hw/audio.primary.rhea.so:system/lib/hw/audio.primary.rhea.so.orig \
+    vendor/samsung/nevis/proprietary/lib/hw/audio.primary.rhea.so:system/lib/hw/audio.primary.rhea.so \
     vendor/samsung/nevis/proprietary/lib/hw/camera.rhea.so:system/lib/hw/camera.rhea.so \
     vendor/samsung/nevis/proprietary/lib/hw/gps.rhea.so:system/lib/hw/gps.rhea.so \
     vendor/samsung/nevis/proprietary/lib/hw/gralloc.rhea.so:system/lib/hw/gralloc.rhea.so \
