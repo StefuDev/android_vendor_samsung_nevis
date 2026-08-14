@@ -146,10 +146,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.audio.mp3.decoder.so:system/lib/libOMX.brcm.audio.mp3.decoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.audio.mp3.encoder.so:system/lib/libOMX.brcm.audio.mp3.encoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.h263.encoder.so:system/lib/libOMX.brcm.video.h263.encoder.so \
+    vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.h263.decoder.so:system/lib/libOMX.brcm.video.h263.decoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.h264.encoder.so:system/lib/libOMX.brcm.video.h264.encoder.so \
+    vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.h264.decoder.so:system/lib/libOMX.brcm.video.h264.decoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.mpeg4.encoder.so:system/lib/libOMX.brcm.video.mpeg4.encoder.so \
+    vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.mpeg4.decoder.so:system/lib/libOMX.brcm.video.mpeg4.decoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.dummy.encoder.so:system/lib/libOMX.brcm.video.dummy.encoder.so \
     vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.dummy.decoder.so:system/lib/libOMX.brcm.video.dummy.decoder.so \
+    vendor/samsung/nevis/proprietary/lib/libOMX.brcm.video.vpx.decoder.so:system/lib/libOMX.brcm.video.vpx.decoder.so \
     vendor/samsung/nevis/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/nevis/proprietary/lib/librpc.so:system/lib/librpc.so \
     vendor/samsung/nevis/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
